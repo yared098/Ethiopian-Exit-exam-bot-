@@ -13,6 +13,12 @@ bot.start((ctx) => {
   showQuestion(ctx);
 });
 
+bot.command('refresh', (ctx) => {
+  currentQuestionIndex = 0;
+  correctAnswerCount = 0;
+  showQuestion(ctx);
+});
+
 bot.action('next', (ctx) => {
   currentQuestionIndex++;
   if (currentQuestionIndex >= questions.length) {

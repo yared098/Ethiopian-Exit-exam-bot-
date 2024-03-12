@@ -1,1471 +1,820 @@
-[{
-    "question": "A flashing red traffic light signifies that a driver should do what?",
-    "A": "stop",
-    "B": "speed up",
-    "C": "proceed with caution",
-    "D": "honk the horn",
+[
+  {
+    "question": "Which SQL command would you use if you want to give some permission to a user?",
+    "A": "GRANT",
+    "B": "INSERT",
+    "C": "REVOKE",
+    "D": "CREATE",
     "answer": "A"
-  }, {
-    "question": "A knish is traditionally stuffed with what filling?",
-    "A": "potato",
-    "B": "creamed corn",
-    "C": "lemon custard",
-    "D": "raspberry jelly",
-    "answer": "A"
-  }, {
-    "question": "A pita is a type of what?",
-    "A": "fresh fruit",
-    "B": "flat bread",
-    "C": "French tart",
-    "D": "friend bean dip",
+    },
+    {
+    "question": "Which one of the following statement is not correct about threads and processes?",
+    "A": "Both can create children",
+    "B": "Threads within a process execute sequentially",
+    "C": "Processes are not independent of one another",
+    "D": "If one thread is blocked, another thread can run",
     "answer": "B"
-  }, {
-    "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
-    "A": "landscape",
-    "B": "caricature",
-    "C": "still life",
-    "D": "Impressionism",
+    },
+    {
+    "question": "Look at the following HTML tag:\n<address>\nAbera Bekele\n</address>\nWhich one of the following is false about the output of the above tag?",
+    "A": "Abera Bekele will be formatted in Italics",
+    "B": "Abera Bekele will be formatted in Bold",
+    "C": "There will be line break above Abera Bekele",
+    "D": "There will be line break below Abera Bekele",
     "answer": "B"
-  }, {
-    "question": "A second-year college student is usually called a what?",
-    "A": "sophomore",
-    "B": "senior",
-    "C": "freshman ",
-    "D": "junior ",
-    "answer": "A"
-  }, {
-    "question": "A student who earns a J.D. can begin his or her career as a what?",
-    "A": "lawyer",
-    "B": "bricklayer",
-    "C": "doctor",
-    "D": "accountant",
-    "answer": "A"
-  }, {
-    "question": "A triptych is a work of art that is painted on how many panels?",
-    "A": "two",
-    "B": "three",
-    "C": "five",
-    "D": "eight",
-    "answer": "B"
-  }, {
-    "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
-    "A": "oneself",
-    "B": "other people",
-    "C": "little made large",
-    "D": "hued in green and blue",
-    "answer": "B"
-  }, {
-    "question": "According to a popular slogan, what state should people not 'mess with'?",
-    "A": "New York",
-    "B": "Texas",
-    "C": "Montana",
-    "D": "Rhode Island",
-    "answer": "B"
-  }, {
-    "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
-    "A": "tuna",
-    "B": "laundry",
-    "C": "popcorn",
-    "D": "coffee",
+    },
+    {
+    "question": "Which is not correct about computers' evolution?",
+    "A": "Increasing memory size",
+    "B": "Increasing I/O capacity",
+    "C": "Increasing processor speed",
+    "D": "Increasing component size",
     "answer": "D"
-  }, {
-    "question": "According to folklore, the 'jackalope' is an antlered version of what animal?",
-    "A": "chicken",
-    "B": "rabbit",
-    "C": "moose",
-    "D": "snake",
-    "answer": "B"
-  }, {
-    "question": "According to Greek mythology, who was Apollo's twin sister?",
-    "A": "Aphrodite",
-    "B": "Artemis",
-    "C": "Venus",
-    "D": "Athena",
-    "answer": "B"
-  }, {
-    "question": "According to legend, if you give someone the 'evil eye' what are you doing?",
-    "A": "cursing them",
-    "B": "blessing a child",
-    "C": "counting money",
-    "D": "passing time",
-    "answer": "A"
-  }, {
-    "question": "According to legend, in what country are you most likely to meet a leprechaun?",
-    "A": "Ireland",
-    "B": "Poland",
-    "C": "Greenland",
-    "D": "Scotland",
-    "answer": "A"
-  }, {
-    "question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
-    "A": "Poodle",
-    "B": "Beagle",
-    "C": "German shepherd",
-    "D": "Labrador retriever",
+    },
+    {
+    "question": "What will be the value of ZR if it is given that string Z = caddba?",
+    "A": "abddac",
+    "B": "cad",
+    "C": "abd",
+    "D": "caddba",
     "answer": "D"
-  }, {
-    "question": "According to the Bible, Moses and Aaron had a sister named what?",
-    "A": "Jochebed",
-    "B": "Ruth",
-    "C": "Leah",
-    "D": "Miriam",
-    "answer": "D"
-  }, {
-    "question": "According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?",
-    "A": "calm",
-    "B": "blue",
-    "C": "windy",
-    "D": "really big",
+    },
+    {
+    "question": "Which one of the following is correct about depth first search?",
+    "A": "Expands the shallowest node",
+    "B": "Uses stack data structure for implementation",
+    "C": "Pops nodes from the front of the queue",
+    "D": "Uses queue data structure for implementation",
     "answer": "B"
-  }, {
-    "question": "According to the Mother Goose nursery rhyme, which child is full of woe?",
-    "A": "Monday's child",
-    "B": "Wednesday's child",
-    "C": "Thursday's child",
-    "D": "Saturday's child",
-    "answer": "B"
-  }, {
-    "question": "According to the popular saying, what should you do 'when in Rome'?",
-    "A": "watch your wallet",
-    "B": "see the Coliseum",
-    "C": "as the Romans do",
-    "D": "don't drink the water",
+    },
+    {
+    "question": "Which performance metrics can be used to measure the time taken to perform a read or write operation?",
+    "A": "Fetching time",
+    "B": "Memory cycle time",
+    "C": "Access time",
+    "D": "Transfer rate",
     "answer": "C"
-  }, {
-    "question": "According to the proverb, necessity is the mother of what?",
-    "A": "Invention",
-    "B": "Luck",
-    "C": "Problems",
-    "D": "Procrastination",
-    "answer": "A"
-  }, {
-    "question": "According to the title of a popular children's TV show, what color is Bear's big house?",
-    "A": "red",
-    "B": "green",
-    "C": "purple",
-    "D": "blue",
-    "answer": "D"
-  }, {
-    "question": "According to the USDA, which food group should you eat the most servings of per day?",
-    "A": "vegetables",
-    "B": "dairy",
-    "C": "meats",
-    "D": "breads",
-    "answer": "D"
-  }, {
-    "question": "Ada Lovelace is credited with being the first person to have made what?",
-    "A": "a computer program",
-    "B": "a souffle",
-    "C": "a brassiere",
-    "D": "a mystery novel",
-    "answer": "A"
-  }, {
-    "question": "After Prince Charles, who is next in line to be the king of England?",
-    "A": "Prince William",
-    "B": "Prince Andrew",
-    "C": "Prince Edward",
-    "D": "Fresh Prince",
-    "answer": "A"
-  }, {
-    "question": "An airplane's black box is usually what color?",
-    "A": "black",
-    "B": "white",
-    "C": "orange",
-    "D": "purple",
-    "answer": "C"
-  }, {
-    "question": "As of 1999, which state has the most Girl Scouts?",
-    "A": "California",
-    "B": "Illinois",
-    "C": "New York",
-    "D": "Pennsylvania",
-    "answer": "A"
-  }, {
-    "question": "Astronaut John Glenn served as a pilot in what branch of the military?",
-    "A": "Army",
-    "B": "Air Force",
-    "C": "Marines",
-    "D": "Navy",
-    "answer": "C"
-  }, {
-    "question": "At the equator, how fast is the earth's surface turning?",
-    "A": "about 100 miles per hour",
-    "B": "about 500 miles per hour",
-    "C": "about 1000 miles per hour",
-    "D": "about 2000 miles per hour",
-    "answer": "C"
-  }, {
-    "question": "At what age can someone first attend an R-rated movie without an accompanying adult?",
+    },
+    {
+    "question": "What is the output of the following C++ fragment code?\nint x = 15, y = 2;\ncout<<(x/y);",
     "A": "15",
-    "B": "17",
-    "C": "18",
-    "D": "21",
+    "B": "7.5",
+    "C": "8",
+    "D": "7",
     "answer": "C"
-  }, {
-    "question": "Backgammon is a how many player game?",
-    "A": "Two",
-    "B": "Three",
-    "C": "Four",
-    "D": "Six",
+    },
+    {
+    "question": "If we have two strings Z = cddc and W = ababb, then the concatenation of the two strings ZW will be?",
+    "A": "ZW = ababbcddc",
+    "B": "ZW = ca",
+    "C": "ZW = cdab",
+    "D": "ZW = cddcababb",
+    "answer": "C"
+    },
+    {
+    "question": "Under which programming language generation is SQL (Structured Query Language) grouped?",
+    "A": "Third generation languages",
+    "B": "First generation languages",
+    "C": "Fifth generation languages",
+    "D": "Fourth generation languages",
     "answer": "A"
-  }, {
-    "question": "Before he went into coaching, Phil Jackson played for which of the following NBA teams?",
-    "A": "Boston Celtics",
-    "B": "Los Angeles Lakers",
-    "C": "New York Knicks",
-    "D": "Philadelphia 76ers",
-    "answer": "C"
-  }, {
-    "question": "By what name is Bob Keeshan better known?",
-    "A": "Bozo the Clown",
-    "B": "Pee Wee Herman",
-    "C": "Captain Kangaroo",
-    "D": "Buffalo Bob",
-    "answer": "C"
-  }, {
-    "question": "By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?",
-    "A": "the Trio",
-    "B": "the Troika",
-    "C": "the Triumvirate",
-    "D": "the Trinity",
-    "answer": "D"
-  }, {
-    "question": "By what nickname is the Federal National Mortgage Association known?",
-    "A": "Morty",
-    "B": "FEMA",
-    "C": "Freddie Mac",
-    "D": "Fannie Mae",
-    "answer": "D"
-  }, {
-    "question": "Cheddar cheese got its name from a village in what country?",
-    "A": "England",
-    "B": "France",
-    "C": "Switzerland",
-    "D": "Denmark",
-    "answer": "A"
-  }, {
-    "question": "Cheese is a necessary ingredient in which of these dishes?",
-    "A": "sushi",
-    "B": "french fries",
-    "C": "veal parmigiano",
-    "D": "chicken pot pie",
-    "answer": "C"
-  }, {
-    "question": "During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?",
-    "A": "American Revolution",
-    "B": "War of 1812",
-    "C": "Civil War",
-    "D": "World War I",
-    "answer": "B"
-  }, {
-    "question": "During which war did US troops fight the Battle of New Orleans?",
-    "A": "American Revolution",
-    "B": "Civil War",
-    "C": "Mexican War",
-    "D": "War of 1812",
-    "answer": "D"
-  }, {
-    "question": "Each year in pro baseball, the player voted as the best fielder at his position wins what?",
-    "A": "a brand new car",
-    "B": "the Gold Glove",
-    "C": "the Silver Bat",
-    "D": "the Brass Baseball",
-    "answer": "B"
-  }, {
-    "question": "Elephant tusks are made of what material?",
-    "A": "coral",
-    "B": "ivory",
-    "C": "bone",
-    "D": "calcium",
-    "answer": "B"
-  }, {
-    "question": "Excluding wisdom teeth, how many adult teeth do humans have?",
-    "A": "28",
-    "B": "32",
-    "C": "35",
-    "D": "40",
-    "answer": "A"
-  }, {
-    "question": "For a man and woman on a date, 'dutch treat' means what?",
-    "A": "the man pays",
-    "B": "the woman pays",
-    "C": "the Dutch pay",
-    "D": "each pays their own way",
-    "answer": "D"
-  }, {
-    "question": "For what purpose would you use an awl?",
-    "A": "to shoot ducks",
-    "B": "to polish floors",
-    "C": "to make holes",
-    "D": "to weigh fruit",
-    "answer": "C"
-  }, {
-    "question": "From 1971 to 1997, the Democratic Republic of Congo was known as what?",
-    "A": "Zaire",
-    "B": "Angola",
-    "C": "Rhodesia",
-    "D": "Belgian Congo",
-    "answer": "A"
-  }, {
-    "question": "From what language does the term 'R.S.V.P.' originate?",
-    "A": "Russian",
-    "B": "Italian",
-    "C": "Portuguese",
-    "D": "French",
-    "answer": "D"
-  }, {
-    "question": "From whom does the Lutheran Church get its name?",
-    "A": "Martin Luther King Jr",
-    "B": "Martin Luther",
-    "C": "Luther Vandross",
-    "D": "Lex Luthor",
-    "answer": "B"
-  }, {
-    "question": "Gerry Adams is the president of what organization?",
-    "A": "Greenpeace",
-    "B": "NASCAR",
-    "C": "Sinn Fein",
-    "D": "PLO",
-    "answer": "C"
-  }, {
-    "question": "Girls of what religious community traditionally wear bonnets?",
-    "A": "Amish",
-    "B": "Sikh",
-    "C": "Roman Catholic",
-    "D": "Christian",
-    "answer": "A"
-  }, {
-    "question": "How are actors Charlie Sheen and Emilio Estevez related?",
-    "A": "they're cousins",
-    "B": "they're brothers",
-    "C": "they're father and son",
-    "D": "they're uncle and nephew",
-    "answer": "B"
-  }, {
-    "question": "How do you express 3/4 as a decimal?",
-    "A": ".25",
-    "B": ".50",
-    "C": ".75",
-    "D": ".90",
-    "answer": "C"
-  }, {
-    "question": "How is 4:00 pm expressed in military time?",
-    "A": "1600",
-    "B": "004",
-    "C": "0400 ",
-    "D": "4:00",
-    "answer": "A"
-  }, {
-    "question": "How is the Arabic numeral for '2' written?",
-    "A": "2",
-    "B": "II",
-    "C": "I",
-    "D": "ii",
-    "answer": "A"
-  }, {
-    "question": "How is the word 'ambulance' normally written on the front of American ambulances?",
-    "A": "in French",
-    "B": "in reverse",
-    "C": "in braille",
-    "D": "in gibberish",
-    "answer": "B"
-  }, {
-    "question": "How long is a single term in the US Senate?",
-    "A": "two years",
-    "B": "four years",
-    "C": "six years",
-    "D": "eight years",
-    "answer": "C"
-  }, {
-    "question": "How long is the time on an NBA shot clock?",
-    "A": "18 seconds",
-    "B": "24 seconds",
-    "C": "30 seconds",
-    "D": "35 seconds",
-    "answer": "B"
-  }, {
-    "question": "How many $100 bills does it take to equal one million dollars?",
-    "A": "one thousand",
-    "B": "five thousand",
-    "C": "ten thousand",
-    "D": "one hundred thousand",
-    "answer": "C"
-  }, {
-    "question": "How many axles does a standard automobile have?",
-    "A": "one",
-    "B": "two",
-    "C": "four",
-    "D": "eight",
-    "answer": "B"
-  }, {
-    "question": "How many digits are in a standard Visa credit card number?",
-    "A": "12",
-    "B": "15",
-    "C": "16",
-    "D": "20",
-    "answer": "C"
-  }, {
-    "question": "How many eyes does a Giraffe have?",
-    "A": "one",
-    "B": "two",
-    "C": "three",
-    "D": "four",
-    "answer": "B"
-  }, {
-    "question": "How many innings are there in a regular Major League Baseball game?",
-    "A": "seven",
-    "B": "eight",
-    "C": "nine",
-    "D": "ten",
-    "answer": "C"
-  }, {
-    "question": "How many keys are on a standard piano?",
-    "A": "20",
-    "B": "54",
-    "C": "88",
-    "D": "100",
-    "answer": "C"
-  }, {
-    "question": "How many men has actress Elizabeth Taylor been divorced from?",
-    "A": "five",
-    "B": "six",
-    "C": "seven",
-    "D": "eight",
-    "answer": "C"
-  }, {
-    "question": "How many ounces are in a pound?",
-    "A": "4",
-    "B": "12",
-    "C": "16",
-    "D": "32",
-    "answer": "C"
-  }, {
-    "question": "How many periods are there in an ice hockey game?",
-    "A": "One",
-    "B": "Two",
-    "C": "Three",
-    "D": "Four",
-    "answer": "C"
-  }, {
-    "question": "How many quarts are there in a gallon?",
-    "A": "one",
-    "B": "two",
-    "C": "three",
-    "D": "four",
-    "answer": "D"
-  }, {
-    "question": "How many ribs are there in the human body?",
-    "A": "18",
-    "B": "24",
-    "C": "30",
-    "D": "42",
-    "answer": "B"
-  }, {
-    "question": "How many ships did Columbus set sail with on his initial voyage to the New World?",
-    "A": "Two",
-    "B": "Three",
-    "C": "Five",
-    "D": "Ten",
-    "answer": "B"
-  }, {
-    "question": "How many spikes are on the Statue of Liberty's crown?",
-    "A": "five",
-    "B": "seven",
-    "C": "nine",
-    "D": "thirteen",
-    "answer": "B"
-  }, {
-    "question": "How many stars are on the American flag?",
-    "A": "13",
-    "B": "48",
-    "C": "50",
-    "D": "51",
-    "answer": "C"
-  }, {
-    "question": "How many states were in the Confederate States of America?",
-    "A": "11",
-    "B": "13",
-    "C": "16",
-    "D": "22",
-    "answer": "A"
-  }, {
-    "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
-    "A": "5 cents",
-    "B": "10 cents",
-    "C": "75 cents",
-    "D": "$125",
-    "answer": "A"
-  }, {
-    "question": "How long is Hanukkah?",
-    "A": "one day",
-    "B": "five days",
-    "C": "eight days",
-    "D": "two weeks",
-    "answer": "C"
-  }, {
-    "question": "Huffy, Schwinn and Raleigh are all brands of what?",
-    "A": "sportswear",
-    "B": "dishwashers",
-    "C": "cigarettes",
-    "D": "bicycles",
-    "answer": "D"
-  }, {
-    "question": "If a business files under Chapter 11 what is it doing?",
-    "A": "declaring bankruptcy",
-    "B": "selling stock",
-    "C": "buying a smaller",
-    "D": "company suing the government",
-    "answer": "A"
-  }, {
-    "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
-    "A": "one",
-    "B": "four",
-    "C": "five",
-    "D": "ten",
-    "answer": "B"
-  }, {
-    "question": "If a ring has the number 925 stamped into it, it is most likely made of what material?",
-    "A": "platinum",
-    "B": "gold",
-    "C": "steel",
-    "D": "silver",
-    "answer": "D"
-  }, {
-    "question": "If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?",
-    "A": "Sunday",
-    "B": "Monday",
-    "C": "Friday",
-    "D": "Saturday",
-    "answer": "D"
-  }, {
-    "question": "If someone has cataracts, what part of their body might need an operation?",
-    "A": "ear",
-    "B": "hand",
-    "C": "eye",
-    "D": "knee",
-    "answer": "C"
-  }, {
-    "question": "If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
-    "A": "skiing",
-    "B": "biking",
-    "C": "snowboarding",
-    "D": "surfing",
-    "answer": "C"
-  }, {
-    "question": "If you are truly afraid of the dark, what do you suffer from?",
-    "A": "hypnophobia",
-    "B": "cryptophobia",
-    "C": "hadephobia",
-    "D": "nyctophobia",
-    "answer": "D"
-  }, {
-    "question": "If you are watching a Shavian play, who is the author?",
-    "A": "Shakespeare",
-    "B": "Aeschylus",
-    "C": "George Bernard Shaw",
-    "D": "Anton Chekhov",
-    "answer": "C"
-  }, {
-    "question": "If you ask for 'gai' at a Thai restaurant, what will you get?",
-    "A": "shrimp",
-    "B": "chicken",
-    "C": "beef",
-    "D": "pork",
-    "answer": "B"
-  }, {
-    "question": "If you dial '411' on a telephone, who are you calling?",
-    "A": "the police",
-    "B": "the White House",
-    "C": "directory assistance",
-    "D": "Moviefone",
-    "answer": "C"
-  }, {
-    "question": "If you have a 'sawbuck' how much money do you have?",
-    "A": "$1",
-    "B": "$5",
-    "C": "$10",
-    "D": "$20",
-    "answer": "C"
-  }, {
-    "question": "If you work as a 'dolly grip' what business are you in?",
-    "A": "sheep farming",
-    "B": "film production",
-    "C": "construction",
-    "D": "moving",
-    "answer": "B"
-  }, {
-    "question": "In 1909, Frederick Cook claimed to be the first explorer to reach what location?",
-    "A": "Mount Everest",
-    "B": "Bermuda Triangle",
-    "C": "Atlantis",
-    "D": "North Pole",
-    "answer": "D"
-  }, {
-    "question": "In 1926, the Harlem Globetrotters basketball team was formed in what city?",
-    "A": "Boston",
-    "B": "Philadelphia",
-    "C": "Chicago",
-    "D": "New York City",
-    "answer": "C"
-  }, {
-    "question": "In 1960, Nazi official Adolph Eichmann was finally captured in what country?",
-    "A": "Brazil",
-    "B": "East Germany",
-    "C": "Argentina",
-    "D": "Paraguay",
-    "answer": "C"
-  }, {
-    "question": "In 1978, who became the youngest jockey ever to win horse racing's triple crown?",
-    "A": "Jerry Bailey",
-    "B": "Steve Cauthen",
-    "C": "Willie Shoemaker",
-    "D": "Pasquale Devito",
-    "answer": "B"
-  }, {
-    "question": "In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?",
-    "A": "Gulf of Sidra",
-    "B": "Gulf of Oman",
-    "C": "Red Sea",
-    "D": "Persian Gulf",
-    "answer": "A"
-  }, {
-    "question": "In a game with no wild cards, what is the highest possible poker hand?",
-    "A": "straight flush",
-    "B": "royal flush",
-    "C": "full house",
-    "D": "four of a kind",
-    "answer": "B"
-  }, {
-    "question": "In America, what is the main ingredient in pepperoni?",
-    "A": "fish",
-    "B": "pepper",
-    "C": "wheat",
-    "D": "meat",
-    "answer": "D"
-  }, {
-    "question": "In American football, how many points is a touchdown worth?",
-    "A": "two",
-    "B": "three",
-    "C": "six",
-    "D": "seven",
-    "answer": "C"
-  }, {
-    "question": "In an adult human, how long is the large intestine?",
-    "A": "one foot",
-    "B": "five feet",
-    "C": "twelve feet",
-    "D": "twenty feet",
-    "answer": "B"
-  }, {
-    "question": "In baseball, how many balls make a walk?",
-    "A": "one",
-    "B": "two",
-    "C": "three",
-    "D": "four",
-    "answer": "D"
-  }, {
-    "question": "In bowling, how many pins must you knock down to get a strike?",
-    "A": "zero",
-    "B": "8",
-    "C": "10",
-    "D": "12",
-    "answer": "C"
-  }, {
-    "question": "In British currency, how many pence make a pound?",
-    "A": "10",
-    "B": "100",
-    "C": "500",
-    "D": "1000",
-    "answer": "B"
-  }, {
-    "question": "In computer terminology, what does the acronym 'FTP' stand for?",
-    "A": "file transfer protocol",
-    "B": "full time portal",
-    "C": "full text processor",
-    "D": "free to print",
-    "answer": "A"
-  }, {
-    "question": "In computer terminology, what does the acronym 'ISP' stand for?",
-    "A": "Individual Site Privacy",
-    "B": "Investment Stability Plan",
-    "C": "Internal Security Position",
-    "D": "Internet Service Provider",
-    "answer": "D"
-  }, {
-    "question": "In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?",
-    "A": "cheese",
-    "B": "fruit",
-    "C": "gravy",
-    "D": "whipped cream",
-    "answer": "A"
-  }, {
-    "question": "In golf, what is one stroke over par called?",
-    "A": "eagle",
-    "B": "bogey",
-    "C": "dormy",
-    "D": "birdie",
-    "answer": "B"
-  }, {
-    "question": "In Greek mythology, what is the name of Zeus' father?",
-    "A": "Apollo",
-    "B": "Cronus",
-    "C": "Prometheus",
-    "D": "Hercules",
-    "answer": "B"
-  }, {
-    "question": "In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?",
-    "A": "triple action",
-    "B": "trifecta",
-    "C": "exacta",
-    "D": "triple crown",
-    "answer": "B"
-  }, {
-    "question": "In ice hockey, which of the following is not a penalty?",
-    "A": "hooking",
-    "B": "charging",
-    "C": "carving",
-    "D": "butt-ending",
-    "answer": "C"
-  }, {
-    "question": "In Mister Rogers' theme song, what does he ask you to be?",
-    "A": "his cook",
-    "B": "his student",
-    "C": "his neighbor",
-    "D": "all you can be",
-    "answer": "C"
-  }, {
-    "question": "In mobster lingo, if you 'sing like a canary' what are you doing?",
-    "A": "impersonating Sinatra",
-    "B": "talking to the cops",
-    "C": "killing an enemy",
-    "D": "betting on horses",
-    "answer": "B"
-  }, {
-    "question": "In soccer, which player is allowed to use his or her hands in the field of play?",
-    "A": "midfielder",
-    "B": "center",
-    "C": "sweeper",
-    "D": "goalkeeper",
-    "answer": "D"
-  }, {
-    "question": "In the 1960s 'Batman' TV series, who was not a guest villain?",
-    "A": "The Minstrel",
-    "B": "The Archer",
-    "C": "The Bookworm",
-    "D": "The Squeegee Guy",
-    "answer": "D"
-  }, {
-    "question": "In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
-    "A": "Statue of Liberty",
-    "B": "Empire State Building",
-    "C": "World Trade Center",
-    "D": "Chrysler Building",
-    "answer": "C"
-  }, {
-    "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
-    "A": "talking car",
-    "B": "winged horse",
-    "C": "magic carpet",
-    "D": "hot air balloon",
-    "answer": "C"
-  }, {
-    "question": "In the Arthurian legend, who is married to Guinevere?",
-    "A": "Merlin",
-    "B": "King Arthur",
-    "C": "Lancelot",
-    "D": "Camelot",
-    "answer": "B"
-  }, {
-    "question": "In the card game blackjack, how much are a queen and a king worth-together?",
-    "A": "11",
-    "B": "15",
-    "C": "20",
-    "D": "21",
-    "answer": "C"
-  }, {
-    "question": "In the children's game, what color is 'Rover'?",
-    "A": "green",
-    "B": "black",
-    "C": "red",
-    "D": "blue",
-    "answer": "C"
-  }, {
-    "question": "In the classic song 'Take Me Out to the Ballgame' for whom do we 'root root root'?",
-    "A": "the umpire",
-    "B": "the home team",
-    "C": "the bat boy",
-    "D": "Mighty Casey",
-    "answer": "B"
-  }, {
-    "question": "In the comic strip 'Peanuts' what is Schroeder known for doing?",
-    "A": "Dancing",
-    "B": "playing football",
-    "C": "playing the piano",
-    "D": "Flying an imaginary plane",
-    "answer": "C"
-  }, {
-    "question": "In the famous ballet 'The Nutcracker' who does the hero defeat?",
-    "A": "Sugar Plum Fairy",
-    "B": "Rat King",
-    "C": "Snow Queen",
-    "D": "Marzipan",
-    "answer": "B"
-  }, {
-    "question": "In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?",
-    "A": "Stormfield",
-    "B": "Fog City",
-    "C": "Mudville",
-    "D": "Waterlog",
-    "answer": "C"
-  }, {
-    "question": "In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
-    "A": "peace symbol",
-    "B": "American flag",
-    "C": "two white doves",
-    "D": "Harley-Davidson logo",
-    "answer": "B"
-  }, {
-    "question": "In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?",
-    "A": "Jude Law",
-    "B": "Matt Damon",
-    "C": "Dustin Hoffman",
-    "D": "Ben Affleck",
-    "answer": "B"
-  }, {
-    "question": "In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?",
-    "A": "a lime",
-    "B": "a shaker of salt",
-    "C": "his car keys",
-    "D": "the bartender",
-    "answer": "B"
-  }, {
-    "question": "In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?",
-    "A": "Little Buddy",
-    "B": "Mini-Me",
-    "C": "Small Fry",
-    "D": "Dr. Evil Jr",
-    "answer": "B"
-  }, {
-    "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
-    "A": "Woolie",
-    "B": "Boobie",
-    "C": "Wookie",
-    "D": "Klingon",
-    "answer": "C"
-  }, {
-    "question": "In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
-    "A": "Sancho Panza",
-    "B": "Passepartout",
-    "C": "Renfield",
-    "D": "Savoir Faire",
-    "answer": "B"
-  }, {
-    "question": "In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
-    "A": "Polly Finn",
-    "B": "Becky Thatcher",
-    "C": "Nancy Drew",
-    "D": "Emma Bovary",
-    "answer": "B"
-  }, {
-    "question": "In the original 'Get Smart' TV series, what is agent Maxwell Smart's code name?",
-    "A": "Agent 86",
-    "B": "Agent 99",
-    "C": "Larrabee",
-    "D": "The Chief",
-    "answer": "A"
-  }, {
-    "question": "In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?",
-    "A": "through outer space",
-    "B": "through a human body",
-    "C": "to the ocean floor",
-    "D": "to the center of the earth",
-    "answer": "B"
-  }, {
-    "question": "In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
-    "A": "a cow",
-    "B": "a hat",
-    "C": "a harp",
-    "D": "a goose",
-    "answer": "A"
-  }, {
-    "question": "In the television network abbreviation 'ABC' what does the 'A' stand for?",
-    "A": "Artistic",
-    "B": "Audio",
-    "C": "American",
-    "D": "Adult",
-    "answer": "C"
-  }, {
-    "question": "In the phrase 'Y2K' what does 'K' stand for?",
-    "A": "millennium",
-    "B": "computer code",
-    "C": "catastrophe",
-    "D": "thousand",
-    "answer": "D"
-  }, {
-    "question": "In the United States, what is the first day of spring?",
-    "A": "February 21",
-    "B": "March 21",
-    "C": "April 21",
-    "D": "May 21",
-    "answer": "B"
-  }, {
-    "question": "In traditional English puppet shows, who is married to the character Punch?",
-    "A": "Debbie",
-    "B": "Victoria",
-    "C": "Judy",
-    "D": "Barbara",
-    "answer": "C"
-  }, {
-    "question": "In what city is TV's 'The Mary Tyler Moore Show' set?",
-    "A": "Dallas",
-    "B": "Chicago",
-    "C": "New York",
-    "D": "Minneapolis",
-    "answer": "D"
-  }, {
-    "question": "In what city would you find people studying art and design at the Fashion Institute of Technology?",
-    "A": "Paris",
-    "B": "New York",
-    "C": "Los Angeles",
-    "D": "Melbourne",
-    "answer": "B"
-  }, {
-    "question": "In what country are police officers referred to as 'bobbies'?",
-    "A": "Israel",
-    "B": "Greece",
-    "C": "England",
-    "D": "France",
-    "answer": "C"
-  }, {
-    "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
-    "A": "United States",
-    "B": "Sweden",
-    "C": "Israel",
-    "D": "Turkey",
-    "answer": "B"
-  }, {
-    "question": "In what country did Pokemon originate?",
-    "A": "France",
-    "B": "Hungary",
-    "C": "Japan",
-    "D": "Canada",
-    "answer": "C"
-  }, {
-    "question": "In what decade did Israel become an independent state?",
-    "A": "1920s",
-    "B": "1940s",
-    "C": "1950s",
-    "D": "1960s",
-    "answer": "B"
-  }, {
-    "question": "In what decade was the Hula-Hoop invented?",
-    "A": "1890s",
-    "B": "1920s",
-    "C": "1950s",
-    "D": "1970s",
-    "answer": "C"
-  }, {
-    "question": "In what forest did Robin Hood live?",
-    "A": "Black Forest",
-    "B": "Petrified Forest",
-    "C": "Nottingham Forest",
-    "D": "Sherwood Forest",
-    "answer": "D"
-  }, {
-    "question": "In what restaurant can you order a Grand Slam breakfast?",
-    "A": "Denny's",
-    "B": "McDonald's",
-    "C": "Burger King",
-    "D": "Hardee's",
-    "answer": "A"
-  }, {
-    "question": "In what sport do athletes compete for the Walker Cup?",
-    "A": "cricket",
-    "B": "tennis",
-    "C": "squash",
-    "D": "golf",
-    "answer": "D"
-  }, {
-    "question": "In what sport do you find 'steel cage' matches?",
-    "A": "boxing",
-    "B": "fencing",
-    "C": "pro wrestling",
-    "D": "college basketball",
-    "answer": "C"
-  }, {
-    "question": "In what state is the 1999 movie 'Magnolia' set?",
-    "A": "California",
-    "B": "South Carolina",
-    "C": "Georgia",
-    "D": "Texas",
-    "answer": "A"
-  }, {
-    "question": "In what U.S. city can you find the Basketball Hall of Fame?",
-    "A": "Canton, Ohio",
-    "B": "Cooperstown, New York",
-    "C": "Springfield, Massachusetts",
-    "D": "Lawrence, Kansas",
-    "answer": "C"
-  }, {
-    "question": "In what year did the Great Depression begin?",
-    "A": "1884",
-    "B": "1929",
-    "C": "1953",
-    "D": "1975",
-    "answer": "B"
-  }, {
-    "question": "In what year did the United States last win an Olympic gold medal in men's ice hockey?",
-    "A": "1976",
-    "B": "1980",
-    "C": "1984",
-    "D": "1988",
-    "answer": "B"
-  }, {
-    "question": "In which of the following bands did Jimmy Page not play guitar?",
-    "A": "Bad Company",
-    "B": "The Firm",
-    "C": "Led Zeppelin",
-    "D": "The Yardbirds",
-    "answer": "A"
-  }, {
-    "question": "In which of these sports do competitors use a 'funny car'?",
-    "A": "supercross",
-    "B": "dogsledding",
-    "C": "gymnastics",
-    "D": "drag racing",
-    "answer": "D"
-  }, {
-    "question": "In what war did Joan of Arc fight?",
-    "A": "Hundred Years' War",
-    "B": "Franco-Prussian War",
-    "C": "French Revolution",
-    "D": "French and Indian War",
-    "answer": "A"
-  }, {
-    "question": "Including the bottom, how many sides are on a square-based pyramid?",
-    "A": "three",
-    "B": "four",
-    "C": "five",
-    "D": "six",
-    "answer": "C"
-  }, {
-    "question": "Into what body of water does the Rhone River flow?",
-    "A": "Atlantic Ocean",
-    "B": "Caspian Sea",
-    "C": "North Sea",
-    "D": "Mediterranean Sea",
-    "answer": "D"
-  }, {
-    "question": "John D. Rockefeller made his fortune in what industry?",
-    "A": "automobile ",
-    "B": "oil",
-    "C": "steel",
-    "D": "railroad",
-    "answer": "B"
-  }, {
-    "question": "Modern computer microchips are primarily composed of what element?",
-    "A": "Sodium",
-    "B": "Silicon",
-    "C": "Aluminum",
-    "D": "Silver",
-    "answer": "B"
-  }, {
-    "question": "Mohair is made from the fleece of what animal?",
-    "A": "camel",
-    "B": "llama",
-    "C": "goat",
-    "D": "mole",
-    "answer": "C"
-  }, {
-    "question": "'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?",
-    "A": "'Citizen Kane'",
-    "B": "'The African Queen'",
-    "C": "'The Deer Hunter'",
-    "D": "'Adam's Rib'",
-    "answer": "B"
-  }, {
-    "question": "On a set of jumper cables, what color designates the negative connector?",
-    "A": "black",
-    "B": "red",
-    "C": "orange",
-    "D": "blue",
-    "answer": "A"
-  }, {
-    "question": "On average, what length of time passes between high tides?",
-    "A": "3 hours, 25 minutes",
-    "B": "6 hours, 25 minutes",
-    "C": "12 hours, 25 minutes",
-    "D": "24 hours, 25 minutes",
-    "answer": "C"
-  }, {
-    "question": "On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?",
-    "A": "Franky",
-    "B": "Ponch",
-    "C": "Chipper",
-    "D": "Hot Dog",
-    "answer": "B"
-  }, {
-    "question": "On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?",
-    "A": "Furry Monster",
-    "B": "Pizza Man",
-    "C": "Snookums",
-    "D": "Baby Cakes",
-    "answer": "B"
-  }, {
-    "question": "On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?",
-    "A": "ophthalmologist",
-    "B": "cardiologist",
-    "C": "neurologist",
-    "D": "proctologist",
-    "answer": "D"
-  }, {
-    "question": "On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
-    "A": "Eros",
-    "B": "Cupid",
-    "C": "Aphrodite",
-    "D": "Venus",
-    "answer": "A"
-  }, {
-    "question": "On what continent can you find tigers in the wild?",
-    "A": "Africa",
-    "B": "Asia",
-    "C": "Europe",
-    "D": "South America",
-    "answer": "B"
-  }, {
-    "question": "On what body part should you wear a babushka?",
-    "A": "head",
-    "B": "hands",
-    "C": "foot",
-    "D": "legs",
-    "answer": "A"
-  }, {
-    "question": "On which part of a car would you find the 'caliper'?",
-    "A": "battery",
-    "B": "engine",
-    "C": "radiator",
-    "D": "brakes",
-    "answer": "D"
-  }, {
-    "question": "Paper will burn at approximately what temperature, in Fahrenheit?",
-    "A": "98.6 degrees",
-    "B": "212.5 degrees",
-    "C": "398.5 degrees",
-    "D": "451 degrees",
-    "answer": "D"
-  }, {
-    "question": "People are supposed to drive on the left-hand side of the road in which country?",
-    "A": "France",
-    "B": "Italy",
-    "C": "England",
-    "D": "Germany",
-    "answer": "C"
-  }, {
-    "question": "Phoebe, Dione and Helene are moons of what planet?",
-    "A": "Jupiter",
-    "B": "Saturn",
-    "C": "Neptune",
-    "D": "Pluto",
-    "answer": "B"
-  }, {
-    "question": "Pop icon Tiny Tim was famous for playing what musical instrument?",
-    "A": "ukulele",
-    "B": "kazoo",
-    "C": "accordion",
-    "D": "fiddle",
-    "answer": "A"
-  }, {
-    "question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
-    "A": "carrots",
-    "B": "chicken",
-    "C": "tofu",
-    "D": "rice",
-    "answer": "B"
-  }, {
-    "question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
-    "A": "Paul McCartney",
-    "B": "John Lennon",
-    "C": "George Harrison",
-    "D": "Ringo Starr",
-    "answer": "A"
-  }, {
-    "question": "The American patriot Paul Revere was named for his father, whose original name was what?",
-    "A": "John Paul Revere",
-    "B": "Paul Silver",
-    "C": "Apollos Rivoire",
-    "D": "Paolo Reverini",
-    "answer": "C"
-  }, {
-    "question": "The Original Apple iMac computer was available in all of the following colors except which?",
-    "A": "Tangerine",
-    "B": "Strawberry",
-    "C": "Kiwi",
-    "D": "Grape",
-    "answer": "C"
-  }, {
-    "question": "The 'Arkansas toothpick' is better known by what name?",
-    "A": "Scottie Pippen",
-    "B": "spare rib",
-    "C": "pinkie finger",
-    "D": "Bowie knife",
-    "answer": "D"
-  }, {
-    "question": "The British dish 'bangers and mash' is made up of sausage and what?",
-    "A": "eggs",
-    "B": "bacon",
-    "C": "liver",
-    "D": "potatoes",
-    "answer": "D"
-  }, {
-    "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
-    "A": "farsighted",
-    "B": "nearsighted",
-    "C": "hindsighted",
-    "D": "hypermetropic",
-    "answer": "B"
-  }, {
-    "question": "The dance known as the 'fandango' is of what origin?",
-    "A": "Australian",
-    "B": "African",
-    "C": "Native American",
-    "D": "Spanish",
-    "answer": "D"
-  }, {
-    "question": "The disco band ABBA comes from what country?",
-    "A": "Norway",
-    "B": "Sweden",
-    "C": "Switzerland",
-    "D": "The Netherlands",
-    "answer": "B"
-  }, {
-    "question": "The film 'Stand By Me' is based on a novel by what author?",
-    "A": "Anne Proulx",
-    "B": "Stephen King",
-    "C": "Dean Koontz",
-    "D": "Frank McCourt",
-    "answer": "B"
-  }, {
-    "question": "The first commercial radio station was located in what city?",
-    "A": "Chicago",
-    "B": "Austin",
-    "C": "Pittsburgh",
-    "D": "Cleveland",
-    "answer": "C"
-  }, {
-    "question": "The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
-    "A": "'Humpty Dumpty'",
-    "B": "'Mary Had a Little Lamb'",
-    "C": "'Jack Be Nimble'",
-    "D": "'Home, Sweet Home'",
-    "answer": "B"
-  }, {
-    "question": "The majority of calcium in the human body is found where?",
-    "A": "hair",
-    "B": "blood",
-    "C": "bones",
-    "D": "digestive tract",
-    "answer": "C"
-  }, {
-    "question": "The phrase 'hospital corners' refers to what?",
-    "A": "bed sheets",
-    "B": "paint",
-    "C": "landscaping",
-    "D": "scissors",
-    "answer": "A"
-  }, {
-    "question": "The process of drilling holes in the skull is called what?",
-    "A": "bifurcation",
-    "B": "trepanation",
-    "C": "aeronomy",
-    "D": "skullduggery",
-    "answer": "B"
-  }, {
-    "question": "The sport of judo comes from what Asian country?",
-    "A": "Japan",
-    "B": "Vietnam",
-    "C": "Laos",
-    "D": "Philippines",
-    "answer": "A"
-  }, {
-    "question": "The Strauss family of composers popularized what dance?",
-    "A": "waltz",
-    "B": "tango",
-    "C": "fox-trot",
-    "D": "square dance",
-    "answer": "A"
-  }, {
-    "question": "The term 'chili con carne' refers to chili with what?",
-    "A": "beans ",
-    "B": "meat",
-    "C": "cheese",
-    "D": "chili peppers",
-    "answer": "B"
-  }, {
-    "question": "The TV show 'House of Style' airs on what network?",
-    "A": "E",
-    "B": "WB",
-    "C": "MTV",
-    "D": "Home Shopping Network",
-    "answer": "C"
-  }, {
-    "question": "To create a tapestry, one must traditionally engage in what activity?",
-    "A": "weaving",
-    "B": "sculpting",
-    "C": "baking",
-    "D": "singing",
-    "answer": "A"
-  }, {
-    "question": "To make an international telephone call from within the US, what are the first numbers you should dial?",
-    "A": "011",
-    "B": "101",
-    "C": "888",
-    "D": "911",
-    "answer": "A"
-  }, {
-    "question": "To ward off bad luck, what do many people do to wood?",
-    "A": "knock on it",
-    "B": "kiss it",
-    "C": "thank it",
-    "D": "scratch it",
-    "answer": "A"
-  }, {
-    "question": "What actress starred on 'Charlie's Angels' for the show's entire run?",
-    "A": "Cheryl Ladd",
-    "B": "Farrah Fawcett",
-    "C": "Jaclyn Smith",
-    "D": "Kate Jackson",
-    "answer": "C"
-  }, {
-    "question": "What animal is considered sacred in India?",
-    "A": "sheep",
-    "B": "cow",
-    "C": "chicken",
-    "D": "dog",
-    "answer": "B"
-  }, {
-    "question": "What animal is used to make lard?",
-    "A": "pig",
-    "B": "cow",
-    "C": "snake",
-    "D": "chicken",
-    "answer": "A"
-  }, {
-    "question": "What animal represents the year 2000 on the Chinese calendar?",
-    "A": "dragon",
-    "B": "rabbit",
-    "C": "tiger",
-    "D": "monkey",
-    "answer": "A"
-  }, {
-    "question": "What animated character has a crush on the Little Red Haired Girl?",
-    "A": "Richie Rich",
-    "B": "Charlie Brown",
-    "C": "Bugs Bunny",
-    "D": "Jonny Quest",
-    "answer": "B"
-  }, {
-    "question": "What are fans of the TV show 'Mystery Science Theater 3000' known as?",
-    "A": "Mysterians",
-    "B": "MiSTies",
-    "C": "'Bot Brigade",
-    "D": "Gizmonics",
-    "answer": "B"
-  }, {
-    "question": "What are the dimensions of a 'letter size' piece of paper?",
-    "A": "3 1/2 x 5 inches",
-    "B": "5 x 10 inches",
-    "C": "8 1/2 x 11 inches",
-    "D": "11 x 17 inches",
-    "answer": "C"
-  }, {
-    "question": "What are the names of Donald Duck's three nephews?",
-    "A": "Quick, Quack, Quock",
-    "B": "Alvin, Simon, Theodore",
-    "C": "Robbie, Chip, Ernie",
-    "D": "Huey, Dewey, Louie",
-    "answer": "D"
-  }, {
-    "question": "What are the names of the two primary M&M's spokes-candies?",
-    "A": "Peanut and Plain",
-    "B": "Red and Yellow",
-    "C": "Mort and Marty",
-    "D": "They don't have names",
-    "answer": "B"
-  }, {
-    "question": "What are the plastic boxes that hold compact discs called?",
-    "A": "frame cases",
-    "B": "jewel cases",
-    "C": "slip cases",
-    "D": "wafer boxes",
-    "answer": "B"
-  }, {
-    "question": "What are the Smothers Brothers' first names?",
-    "A": "Frank and Bill",
-    "B": "Tom and Dick",
-    "C": "Dave and George",
-    "D": "Ed and Pete",
-    "answer": "B"
-  }, {
-    "question": "What article of clothing best describes a 'pashmina'?",
-    "A": "shoes",
-    "B": "pants",
-    "C": "scarf",
-    "D": "underwear",
-    "answer": "C"
-  }, {
-    "question": "What automobile company makes the Sonata?",
-    "A": "Toyota",
-    "B": "Honda",
-    "C": "Subaru",
-    "D": "Hyundai",
-    "answer": "D"
-  }, {
-    "question": "What biological process replicates DNA?",
-    "A": "molting",
-    "B": "mitosis",
-    "C": "diffusion",
-    "D": "peristalsis",
-    "answer": "B"
-  }, {
-    "question": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
-    "A": "Nissan",
-    "B": "Mazda",
-    "C": "Toyota",
-    "D": "Daihatsu",
-    "answer": "A"
-  }, {
-    "question": "What cartoon character traveled in a time machine with Mr. Peabody?",
-    "A": "Rocky",
-    "B": "Jonny Quest",
-    "C": "Underdog",
-    "D": "Sherman",
-    "answer": "D"
-  }, {
-    "question": "What character did Woody replace on the TV show 'Cheers'?",
-    "A": "Coach",
-    "B": "Diane",
-    "C": "Norm",
-    "D": "Frasier",
-    "answer": "A"
-  }, {
-    "question": "What chemical do people frequently use to bleach hair?",
-    "A": "folic acid",
-    "B": "hydrogen peroxide",
-    "C": "sodium chloride",
-    "D": "nitrous oxide",
-    "answer": "B"
-  }, {
-    "question": "What children's storybook character believes that the sky is falling?",
-    "A": "Chicken Little",
-    "B": "Curious George",
-    "C": "Jack Sprat",
-    "D": "Tom Thumb",
-    "answer": "A"
-  }, {
-    "question": "What children's TV character is known as 'Da Niao' in China?",
-    "A": "Barney",
-    "B": "Big Bird",
-    "C": "Mickey Mouse",
-    "D": "Tinky Winky",
-    "answer": "B"
-  }]
+    },{
+      "question": "Which one of the following is uniformed searching method?",
+      "A": "A search",
+      "B": "Iterative improvement",
+      "C": "Greedy search",
+      "D": "Breadth first search",
+      "answer": "D"
+      },
+      {
+      "question": "Which recurrence relation can express Selection sorting algorithm?",
+      "A": "T(n) T(n-1) + n",
+      "B": "T(n) T(n-2) + 1",
+      "C": "T(n) = T(n/3) + 1",
+      "D": "T(n) T(n/2) + n",
+      "answer": "B"
+      },
+      {
+      "question": "Assume you are a database designer and you are given a task to specify entities, relationships, constraints on relations and data types for the data to be stored in the database. At which level of the three-schema architecture would this be addressed?",
+      "A": "Internal level",
+      "B": "View level",
+      "C": "External level",
+      "D": "Conceptual level",
+      "answer": "D"
+      },
+      {
+      "question": "Which one of the following is not a component of human-computer system?",
+      "A": "Humans",
+      "B": "Host computers",
+      "C": "Network hardware",
+      "D": "Security guards",
+      "answer": "D"
+      },
+      {
+      "question": "Given input Alphabet ∑ = {a, b, c, d} which one of the following is an element of set ∑ 2?",
+      "A": "b",
+      "B": "c",
+      "C": "ac",
+      "D": "aabbccdd",
+      "answer": "D"
+      },
+      {
+      "question": "Which layer of the TCP/IP model is responsible for routing, maintaining routing table and routing protocol?",
+      "A": "Application layer",
+      "B": "Internet layer",
+      "C": "Transport layer",
+      "D": "Network access layer",
+      "answer": "B"
+      },
+      {
+      "question": "XYZ Company is attacked by intruders which causing system crashes, slowing down of the services and denying services to targeted users. Therefore, the company is attacked by?",
+      "A": "Access attack",
+      "B": "Information gathering",
+      "C": "Viruses",
+      "D": "Denial of services (DOS)",
+      "answer": "D"
+      },
+      {
+      "question": "Which one of the following is correct?",
+      "A": "Single user systems can allow concurrent access to the database",
+      "B": "In single user systems many users can login simultaneously",
+      "C": "In Multiuser system many users can access the system concurrently",
+      "D": "Multiuser system can allow at most one user at a time",
+      "answer": "C"
+      },
+      {
+      "question": "Given input Alphabet ∑ = {a, b, c, d} and empty string A. Then, which one of the following is false about X?",
+      "A": "ab = ab",
+      "B": "for any string Z, Zº = λ",
+      "C": "A is an element of +",
+      "D": "|=0",
+      "answer": "D"
+      },
+      {
+      "question": "As compared to IPv4, IPv6 can:",
+      "A": "Use 128-bits",
+      "B": "Handle more addresses",
+      "C": "Route slower and memory intensive",
+      "D": "Support encryptions",
+      "answer": "A"
+      },{
+        "question": "Which properties of environment are wrongly coupled?",
+        "A": "Episodic -> non-episodic",
+        "B": "Partially observable -> fully observable",
+        "C": "Discrete -> continuous",
+        "D": "Static -> stochastic",
+        "answer": "C"
+        },
+        {
+        "question": "Which one doesn't describe loopback address?",
+        "A": "It is denoted by an IP address: 127.0.0.1",
+        "B": "It helps to refer to the host itself",
+        "C": "It is an external pseudo address",
+        "D": "It allows programs to access network protocols for local services",
+        "answer": "C"
+        },
+        {
+        "question": "Which one of the following is not a wireless attack?",
+        "A": "bluejacking",
+        "B": "phishing",
+        "C": "rogue access point",
+        "D": "bluesnarfing",
+        "answer": "B"
+        },
+        {
+        "question": "What will be the value of | Z|d if it is given that string Z = caddba?",
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "12",
+        "answer": "D"
+        },
+        {
+        "question": "Which type of software must act immediately?",
+        "A": "Generic",
+        "B": "Custom",
+        "C": "Real time",
+        "D": "Data processing",
+        "answer": "C"
+        },
+        {
+        "question": "Which one of the following is false about any language L?",
+        "A": "L3 = L'LL",
+        "B": "Lo = L",
+        "C": "L* = L'UL¹UL ULULAU",
+        "D": "L+ = L'ULULULULU",
+        "answer": "D"
+        },
+        {
+        "question": "Assume you are a network designer and assigned to design a network for a company. The network spans over a larger distance and it should be resilient for any failure, which means if a station fails, the communication still continues by redirecting through another path. Which network topology would you use for your design?",
+        "A": "Bus topology",
+        "B": "Ring topology",
+        "C": "Mesh topology",
+        "D": "Star topology",
+        "answer": "C"
+        },
+        {
+        "question": "Writing comments in between our C++ program makes our program",
+        "A": "Maintainable",
+        "B": "Reliable",
+        "C": "Efficient",
+        "D": "Portable",
+        "answer": "A"
+        },
+        {
+        "question": "What is the final result of the following Java expression? 8-25(3+9/3)+6/3",
+        "A": "182",
+        "B": "-50",
+        "C": "-30",
+        "D": "122",
+        "answer": "C"
+        },
+        {
+        "question": "Which one of the following is not true about process communication?",
+        "A": "Processes can communicate using shared memory",
+        "B": "Cooperating process neither affects nor affected by another process",
+        "C": "Processes can communicate using message passing",
+        "D": "Cooperating process can both affect and be affected by another process",
+        "answer": "B"
+        },
+        {
+        "question": "Which one of the following is true about client-server model?",
+        "A": "PHP is for client-side programming",
+        "B": "JavaScript is for server-side programming",
+        "C": "Client refers to end-user's computer",
+        "D": "Clients connect with servers only through the Internet",
+        "answer": "C"
+        },
+        {
+        "question": "If a transaction ends successfully and any changes executed by the transaction will be saved permanently and will not be undone, which database command can be used?",
+        "A": "Commit_transaction",
+        "B": "Read_transaction",
+        "C": "Fail_transaction",
+        "D": "Rollback",
+        "answer": "A"
+        },
+        {
+        "question": "Which one of the following is wrongly coupled about passive (offline) and active (online) attacks?",
+        "A": "Active attack -> traffic analysis",
+        "B": "Active attack -> add or delete messages",
+        "C": "Passive attack -> monitoring traffic",
+        "D": "Passive attack -> obtain message contents",
+        "answer": "C"
+        },
+        {
+        "question": "Which one of the following is a type of compiler which converts the code into assembly code only?",
+        "A": "Incremental compiler",
+        "B": "One-pass compiler",
+        "C": "Just-in-time compiler",
+        "D": "Stage compiler",
+        "answer": "B"
+        },{
+          "question": "Which one of the following is a type of compiler which compiles only the changed lines from the source code and updates the object code accordingly?",
+          "A": "One pass compiler",
+          "B": "Incremental compiler",
+          "C": "Retargetable compiler",
+          "D": "Parallelizing compiler",
+          "answer": "B"
+          },
+          {
+          "question": "Which notation is the most comfortable for human programmers?",
+          "A": "Postfix",
+          "B": "Infix, prefix, and postfix are equally comfortable",
+          "C": "Prefix",
+          "D": "Infix",
+          "answer": "D"
+          },
+          {
+          "question": "Which method can resolve collision in hashed files by proceeding from the occupied position specified by the hash address, the program checks the subsequent positions in order until an empty position is found?",
+          "A": "Multiple hashing",
+          "B": "Open addressing",
+          "C": "Cluster indexing",
+          "D": "Chaining",
+          "answer": "B"
+          },
+          {
+          "question": "Which attribute of INPUT tag defines the number of characters that can be displayed in a text box without scrolling?",
+          "A": "MAXLENGTH",
+          "B": "TYPE",
+          "C": "SIZE",
+          "D": "VALUE",
+          "answer": "C"
+          },
+          {
+          "question": "Which one of the following is a false reason for why we use HTML?",
+          "A": "Because it is proprietary technology",
+          "B": "Because HTML files are flat text and very small",
+          "C": "Because it works with all platforms, all browsers and all web servers",
+          "D": "Because it is quickly transferred over a network",
+          "answer": "A"
+          },
+          {
+          "question": "Which one is true about Minimum Spanning Trees of graphs?",
+          "A": "Minimum spanning trees form a cycle",
+          "B": "Minimum spanning trees are graphs",
+          "C": "We can have only one unique minimum spanning tree for a graph",
+          "D": "Minimum spanning tree contains all vertices from an input graph",
+          "answer": "D"
+          },
+          {
+          "question": "Which one is a space where an agent perceives and acts so that an intelligent agent designer has to understand the type of it?",
+          "A": "Environment",
+          "B": "Actuator",
+          "C": "Sensor",
+          "D": "Search space",
+          "answer": "A"
+          },
+          {
+          "question": "Identifying and describing the fundamental software system abstractions and their relationships. Establishing the overall system architecture. In which phase are these activities done?",
+          "A": "Implementation",
+          "B": "System design",
+          "C": "System testing",
+          "D": "Requirement Analysis and definition",
+          "answer": "B"
+          },
+          {
+          "question": "Which one of the following is not a computer function?",
+          "A": "Component interconnection",
+          "B": "Data processing",
+          "C": "Control",
+          "D": "Data movement",
+          "answer": "A"
+          },
+          {
+          "question": "Which one of the following is not correct?",
+          "A": "Off-the-shelf apps are assets to be secured",
+          "B": "Enforcing complete security denies access",
+          "C": "No security assures full access to assets",
+          "D": "Security is strong if authentication can be refuted",
+          "answer": "B"
+          },
+          {
+          "question": "Which one of the following is not an example of a high-level programming language?",
+          "A": "C#",
+          "B": "Java",
+          "C": "Assembly language",
+          "D": "C++",
+          "answer": "C"
+          },
+          {
+          "question": "Which one of the following is true regarding constructors in Java?",
+          "A": "Constructors play the role of initializing objects",
+          "B": "Constructors are invoked to create objects without using the new operator",
+          "C": "A constructor can have a different name from its class name",
+          "D": "Constructors can have a return type",
+          "answer": "A"
+          },
+          {
+          "question": "In an array implementation of a binary heap tree, if a node is stored at index i, then its parent will be stored at index",
+          "A": "floor(2i)",
+          "B": "floor(i/2)",
+          "C": "ceiling((i+1)/2)",
+          "D": "ceiling(2i+1)",
+          "answer": "B"
+          },
+          {
+            "question": "We should not use Waterfall software development process mode in situations like:",
+            "A": "The project is short",
+            "B": "There are no ambiguous requirements",
+            "C": "Software requirements change quickly",
+            "D": "Plenty resources with required expertise are available freely",
+            "answer": "C"
+            },
+            {
+            "question": "In which transmission impairment does the effect of one transmission wire has on the other wire?",
+            "A": "Crosstalk",
+            "B": "Induced",
+            "C": "Impulse",
+            "D": "Thermal",
+            "answer": "A"
+            },
+            {
+            "question": "In which case does a dedicated communication path between the sender and receiver have to be established?",
+            "A": "Broadcasting",
+            "B": "Circuit switching",
+            "C": "Multiplexing",
+            "D": "Packet switching",
+            "answer": "B"
+            },
+            {
+            "question": "Which one of the following is not the purpose of the code optimization phase of the compiling process?",
+            "A": "Achieving faster execution",
+            "B": "Producing fewer instructions",
+            "C": "Producing better code",
+            "D": "Changing the behavior of the program",
+            "answer": "D"
+            },
+            {
+            "question": "What is the output of the following C++ code fragment?\nint data[10] = (5, 10, 15, 20, 25, 30, 35, 40, 45, 50);\nint i = 0;\nwhile(i <= 10)\n{\n if(data[i] % 10 == 0)\n cout << data[i] <<  i = i + 2;\n}",
+            "A": "5 15 25 35 45",
+            "B": "10 20 30 40 50",
+            "C": "5 10 15 20 25 30 35 40 45",
+            "D": "No output",
+            "answer": "D"
+            },
+            {
+            "question": "Which one of the following searching strategies best explains the following statement? 'The searching agent is based on problem-specific knowledge and the agent knows the distance different state is far away from the goal.'",
+            "A": "Blind search",
+            "B": "Informed search",
+            "C": "Uninformed search",
+            "D": "Not informed search",
+            "answer": "B"
+            },
+            {
+            "question": "If a company enforces mechanisms that protect information and information systems from unauthorized access, use, modification, and destruction to maintain confidentiality, integrity, and availability, then which one of the following best explains what the company did?",
+            "A": "Hardware security",
+            "B": "Information security",
+            "C": "Network security",
+            "D": "Campus security",
+            "answer": "B"
+            },
+            {
+            "question": "What is the height of a complete binary tree having n nodes?",
+            "A": "floor(log n)",
+            "B": "ceiling(n log n)",
+            "C": "floor(n/2)",
+            "D": "ceiling(n/2)",
+            "answer": "A"
+            },
+            {
+            "question": "If you develop software that can be easily made to work in different hardware and operating system environments, what quality does your software have?",
+            "A": "Usability",
+            "B": "Portability",
+            "C": "Reusability",
+            "D": "Correctness",
+            "answer": "B"
+            },
+            {
+            "question": "Which Java keyword is used to declare constants?",
+            "A": "const",
+            "B": "fixed",
+            "C": "constant",
+            "D": "final",
+            "answer": "D"
+            },
+            {
+            "question": "In which phase of the two-phase locking protocol does a transaction start releasing locks and may not obtain locks back?",
+            "A": "Shrinking phase",
+            "B": "Growing phase",
+            "C": "Rollback phase",
+            "D": "Release phase",
+            "answer": "A"
+            },
+            {
+            "question": "If power went off while processing a transaction, what should the DBMS do to reverse any changes made to the database?",
+            "A": "Commit_transaction",
+            "B": "Read_transaction",
+            "C": "Fail transaction",
+            "D": "Rollback",
+            "answer": "D"
+            },
+            {
+              "question": "Which program takes one or more object files generated by compilers or assemblers and combines them into a single executable program?",
+              "A": "Linker",
+              "B": "Debugger",
+              "C": "Loader",
+              "D": "Editor",
+              "answer": "A"
+              },
+              {
+              "question": "Which one of the following is not correct about symmetric key?",
+              "A": "Repetitive key change is encouraged to lime data being compromised",
+              "B": "Previous key cannot be used to a new key",
+              "C": "Trusted third party can generate and deliver keys",
+              "D": "It requires sender and receiver to share common secret key",
+              "answer": "A"
+              },
+              {
+              "question": "Which one of the following is not correct regarding TCP and UDP protocols?",
+              "A": "Both manage communication of many applications",
+              "B": "TCP is connectionless, while UDP is connection-oriented",
+              "C": "TCP is connection-oriented, while UDP is connectionless",
+              "D": "Both are transport layer protocols",
+              "answer": "B"
+              },
+              {
+              "question": "Which one of the following is true about tree data structure?",
+              "A": "Tree forms cycle. In other words tree is cyclic data structure",
+              "B": "Tree is linear data structure",
+              "C": "There is only one unique path when we traverse from one node to another node in a tree",
+              "D": "Tree is static data structure",
+              "answer": "C"
+              },
+              {
+              "question": "Which one of the following is false about divide and conquer or modularization process?",
+              "A": "Each individual component is smaller, and therefore easier to understand",
+              "B": "Separate people can work on each sub-divided part",
+              "C": "Opportunities arise for making the component reusable",
+              "D": "Replacing or changing a component is difficult because it affects other parts extremely",
+              "answer": "D"
+              },
+              {
+              "question": "Break down a problem into smaller sub-problems, solve sub-problems and then combine solutions of sub-problems. These are the basic steps of algorithms.",
+              "A": "Divide and conquer",
+              "B": "Backtracking",
+              "C": "Greedy",
+              "D": "Dijkstra's",
+              "answer": "A"
+              },
+              {
+              "question": "Fortran, Cobol, Lisp, C, C++, C#, and Java are grouped under generation of programming languages.",
+              "A": "4th generation languages",
+              "B": "1st generation languages",
+              "C": "2nd generation languages",
+              "D": "3rd generation languages",
+              "answer": "D"
+              },
+              {
+              "question": "Which value of form's METHOD attribute causes a form's contents to be parsed one element at a time?",
+              "A": "INPUT",
+              "B": "POST",
+              "C": "ACTION",
+              "D": "GET",
+              "answer": "D"
+              },
+              {
+              "question": "Suppose you are administering a network. You would like to list the paths in order to know at what hop from the destination and at which interface data transfer fails. Then, accordingly, prepare troubleshooting strategies. Which command would you use to accomplish that?",
+              "A": "Ping",
+              "B": "Nslookup",
+              "C": "Traceroute",
+              "D": "Ipconfig",
+              "answer": "C"
+              },
+              {
+              "question": "Instead of delivering the system as a single delivery, the development and delivery are broken down into phases with each phase delivering part of the required functionality. What type of development mode is this?",
+              "A": "Spiral",
+              "B": "Incremental",
+              "C": "Waterfall",
+              "D": "Evolutionary",
+              "answer": "B"
+              },
+              {
+              "question": "In contrast to the traditional file-based approach, in the database approach:",
+              "A": "Store data item in multiple copies",
+              "B": "Don't care about the definition of programs and data",
+              "C": "Programs define and access their own data",
+              "D": "Data and programs are defined independently",
+              "answer": "C"
+              },
+              {
+              "question": "Which instruction type is used to test the value of a data word or status of computation?",
+              "A": "Data movement instruction",
+              "B": "Data processing instruction",
+              "C": "Branch instruction",
+              "D": "Test instruction",
+              "answer": "D"
+              },
+              {
+              "question": "What is the time complexity order of push() operation of Stack data structure implemented using an array?",
+              "A": "O(n)",
+              "B": "O(log n)",
+              "C":"O(n²)",
+              "D": "O(1)",
+              "answer": "D"
+              },
+              {
+              "question": "Which one of the following is not correct about system uniformity?",
+              "A": "In a uniform configuration, if some components are poor it doesn't mean the rest are",
+              "B": "Non-uniform configuration avoids putting all the resources to the same problem",
+              "C": "Non-uniform configuration minimizes a probable loss",
+              "D": "Uniform configuration increases predictability",
+              "answer": "A"
+              },
+              {
+              "question": "Which C++ statement is equivalent to short n; variable declaration?",
+              "A": "short float n;",
+              "B": "signed short int n;",
+              "C": "unsigned short n;",
+              "D": "short double n;",
+              "answer": "C"
+              },
+              {
+              "question": "Which one of the following is not correct about heap files?",
+              "A": "Record insertion is efficient",
+              "B": "New records are inserted at the beginning of the file",
+              "C": "Sorting is required to read records in a particular field order",
+              "D": "Linear search can be used to search necessary record",
+              "answer": "B"
+              },
+              {
+              "question": "Which one of the following is not correct about Von Neumann's architecture?",
+              "A": "Memory content is located by its address",
+              "B": "Instruction execution is sequential",
+              "C": "Modern computers are based on Von Neumann's architecture",
+              "D": "Data and instructions are stored separately",
+              "answer": "D"
+              },{
+                "question": "A given encryption program takes a text message and converts it using a secret key into a scrambled message. Which one of the following best describes the scrambled message?",
+                "A": "Decryption program",
+                "B": "Secret key",
+                "C": "Ciphertext",
+                "D": "Encryption program",
+                "answer": "C"
+                },
+                {
+                "question": "Which protocol of the TCP/IP is a connectionless protocol?",
+                "A": "Transmission protocol",
+                "B": "Internet protocol",
+                "C": "User data protocol",
+                "D": "The OSI reference model",
+                "answer": "B"
+                },
+                {
+                "question": "Which tag is used to show program listing?",
+                "A": "<p>",
+                "B": "<head>",
+                "C": "<pre>",
+                "D": "<sub>",
+                "answer": "C"
+                },
+                {
+                "question": "Assume it is given that f(n) = 4n² and g(n) = 8n, then which asymptotic notation is correct?",
+                "A": "f(n) Big - Oh(g(n))",
+                "B": "f(n) = little-oh(g(n))",
+                "C": "f(n) = (g(n))",
+                "D": "f(n)=0(g(n))",
+                "answer": "A"
+                },
+                {
+                "question": "Which technique of code optimization shifts computations from run time to compile time by evaluating constant expressions at compile time and replace the constant expressions by their values?",
+                "A": "Copy propagation",
+                "B": "Code motion",
+                "C": "Dead code elimination",
+                "D": "Compile time evaluation",
+                "answer": "D"
+                },
+                {
+                "question": "______ is a set of procedures that uses representational language to conclude new fact from the existing ones.",
+                "A": "Knowledge base",
+                "B": "Explanatory facility",
+                "C": "Inference engine",
+                "D": "Interface",
+                "answer": "C"
+                },
+                {
+                "question": "If you want to make methods and data fields of classes accessible from any class in any package, which access modifier is appropriate?",
+                "A": "Default",
+                "B": "Protected",
+                "C": "Private",
+                "D": "Public",
+                "answer": "D"
+                },
+                {
+                "question": "Which one is true about the following JavaScript statement? document.write('Hello World');",
+                "A": "document is property",
+                "B": "write is property",
+                "C": "write is object",
+                "D": "write is method",
+                "answer": "D"
+                },
+                {
+                "question": "Which one of the following is not correct about function overloading in C++?",
+                "A": "Two or more overloaded functions may differ only in their return types",
+                "B": "Two or more overloaded functions may differ in data types of their parameters",
+                "C": "Two or more overloaded functions should have the same function name",
+                "D": "Two or more overloaded functions may differ in their number of parameters",
+                "answer": "C"
+                },
+                {
+                "question": "Look at the following fragment code:\n\nint p = 10;\nint n = 5;\nif(n > p)\n{\n cout<<(n+p)<<endl;\n}\n\nWhich algorithm property is not satisfied by the above C++ coded algorithm?",
+                "A": "Feasibility",
+                "B": "Finiteness",
+                "C": "Sequential",
+                "D": "Efficiency",
+                "answer": "A"
+                },
+                {
+                "question": "What is the output of the following fragment JavaScript?\n\n<script>\nfor(n = 1; n < 7;n++) {\n if(n % 5 ==0)\n document.write(n + ' is multiple of 5);\n}\n</script>",
+                "A": "5 is multiple of 5",
+                "B": "12345 is multiple of 5 6",
+                "C": "5 is multiple of 5 6 7",
+                "D": "123456",
+                "answer": "A"
+                },
+                {
+                "question": "Which phase of software development process refers to modification of software to reflect changing customer and market requirements?",
+                "A": "Validation",
+                "B": "Evolution",
+                "C": "Specification",
+                "D": "Development",
+                "answer": "B"
+                },
+                {
+                "question": "Which one of the following is a voluntary termination of a process?",
+                "A": "Error exit",
+                "B": "Terminated by another process",
+                "C": "Killed by another process",
+                "D": "Fatal exit",
+                "answer": "A"
+                },{
+                  "question": "Which data structure is the best for all airlines seat reservation problems?",
+                  "A": "Array",
+                  "B": "Binary search tree",
+                  "C": "Stack",
+                  "D": "Queue",
+                  "answer": "B"
+                  },
+                  {
+                  "question": "Which characteristic of requirements specifies that the requirement should be phrased so that there is one and only one interpretation for it?",
+                  "A": "Unambiguous",
+                  "B": "Correct",
+                  "C": "Feasible",
+                  "D": "Verifiable",
+                  "answer": "A"
+                  },
+                  {
+                  "question": "When a process executes code that possibly changes the value of shared data, its execution has to be mutually exclusive. Therefore, the process is in:",
+                  "A": "Terminated",
+                  "B": "Deadlock",
+                  "C": "Blocked",
+                  "D": "Critical section",
+                  "answer": "D"
+                  },
+                  {
+                  "question": "Assume you are using a Hash Table data structure with an array size of 6 and your hash function is defined as follows: h(key) = key % m, where m is the size of your hash table. Where will the key = 36 be stored in your hash table?",
+                  "A": "At index 1",
+                  "B": "At index 6",
+                  "C": "At index 35",
+                  "D": "At index",
+                  "answer": "A"
+                  },
+                  {
+                  "question": "Which one of the following is not true about the web?",
+                  "A": "HTML pages are dynamic",
+                  "B": "XHTML pages are static",
+                  "C": "PHP is a web scripting language used to make web pages dynamic",
+                  "D": "JavaScript is a web scripting language used to make web pages dynamic",
+                  "answer": "B"
+                  },
+                  {
+                  "question": "Which one of the following is false about scripting languages?",
+                  "A": "They do not need compilers and development environments",
+                  "B": "They are slower than other compiled codes",
+                  "C": "They are platform dependent",
+                  "D": "They have a simple execution model",
+                  "answer": "C"
+                  },
+                  {
+                  "question": "Which access method is used in magnetic disks?",
+                  "A": "Random",
+                  "B": "Direct",
+                  "C": "Sequential",
+                  "D": "Associative",
+                  "answer": "B"
+                  },
+                  {
+                  "question": "Which one of the software testing is the most time-consuming test phase?",
+                  "A": "Unit testing",
+                  "B": "Acceptance testing",
+                  "C": "System testing",
+                  "D": "Integration testing",
+                  "answer": "C"
+                  },
+                  {
+                  "question": "What is the output of the following Java fragment code?\n\ndouble a = 9.5, b = 27.9, с;\nc = (a > b)? a: b;\nSystem.out.print((int)c);",
+                  "A": "9",
+                  "B": "27.3",
+                  "C": "9.5",
+                  "D": "27",
+                  "answer": "D"
+                  },{
+                    "question": "Which one of the following is a voluntary termination of a process?",
+                    "A": "Error exit",
+                    "B": "Terminated by another process",
+                    "C": "Killed by another process",
+                    "D": "Fatal exit",
+                    "answer": "A"
+                  },
+                  {
+                    "question": "Which program takes one or more object files generated by compilers or assemblers and combines them into a single executable program?",
+                    "A": "Linker",
+                    "B": "Debugger",
+                    "C": "Loader",
+                    "D": "Editor",
+                    "answer": "A"
+                  },
+                  {
+                    "question": "Which data structure is the best for all airlines seat reservation problems?",
+                    "A": "Array",
+                    "B": "Binary search tree",
+                    "C": "Stack",
+                    "D": "Queue",
+                    "answer": "B"
+                  },
+                  {
+                    "question": "Which characteristic of requirements specifies that the requirement should be phrased so that there is one and only one interpretation for it?",
+                    "A": "Unambiguous",
+                    "B": "Correct",
+                    "C": "Feasible",
+                    "D": "Verifiable",
+                    "answer": "A"
+                  },
+                  {
+                    "question": "When a process executes code that possibly changes the value of shared data, its execution has to be mutually exclusive. Therefore, the process is in:",
+                    "A": "Terminated",
+                    "B": "Deadlock",
+                    "C": "Blocked",
+                    "D": "Critical section",
+                    "answer": "D"
+                  }
+]
