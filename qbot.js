@@ -7,6 +7,7 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 // Load questions from JSON file
 const questions = require('./questions.json');
 let currentQuestionIndex = 0;
+let correctAnswerCount = 0;
 
 bot.start((ctx) => {
   showQuestion(ctx);
@@ -46,12 +47,12 @@ bot.action('D', (ctx) => {
 
 function showQuestion(ctx) {
   const question = questions[currentQuestionIndex];
-  const message = `Question ${questions.length} \n${question.question}\n\nA. ${question.A}\nB. ${question.B}\nC. ${question.C}\nD. ${question.D}\n\nQuestion ${currentQuestionIndex + 1} of ${questions.length}`;
+  const message = `Question ${questions.length}\n${question.question}\n\nA. ${question.A}\nB. ${question.B}\nC. ${question.C}\nD. ${question.D}\n\nQuestion ${currentQuestionIndex + 1} of ${questions.length}`;
 
   const buttons = Markup.inlineKeyboard([
     [Markup.button.callback('A', 'A'), Markup.button.callback('B', 'B')],
     [Markup.button.callback('C', 'C'), Markup.button.callback('D', 'D')],
-    [Markup.button.callback('Previous', 'previous'),Markup.button.callback('Next', 'next')],
+    [Markup.button.callback('Previous', 'previous'), Markup.button.callback('Next', 'next')],
   ]);
 
   ctx.reply(message, buttons);
@@ -70,16 +71,17 @@ function checkAnswer(ctx, selectedOption) {
 
   if (isCorrect) {
     resultMessage = 'Correct!';
+    correctAnswerCount++;
   } else {
     resultMessage = 'Incorrect!';
   }
 
-  const message = `${question.question}\n\nA. ${question.A}\nB. ${question.B}\nC. ${question.C}\nD. ${question.D}\n\n${resultMessage}\n\nQuestion ${currentQuestionIndex + 1} of ${questions.length}`;
+  const message = `${question.question}\n\nA. ${question.A}\nB. ${question.B}\nC. ${question.C}\nD. ${question.D}\n\n${resultMessage}\n\nQuestion ${currentQuestionIndex + 1} of ${questions.length}\n\nCorrect Answers: ${correctAnswerCount}`;
 
   const buttons = Markup.inlineKeyboard([
     [Markup.button.callback('A', isCorrect ? '✅ A' : '❌ A'), Markup.button.callback('B', isCorrect ? '✅ B' : '❌ B')],
     [Markup.button.callback('C', isCorrect ? '✅ C' : '❌ C'), Markup.button.callback('D', isCorrect ? '✅ D' : '❌ D')],
-    [Markup.button.callback('Next', 'next'), Markup.button.callback('Previous', 'previous')],
+    [Markup.button.callback('Previous', 'previous'), Markup.button.callback('Next', 'next')],
   ]);
 
   ctx.editMessageText(message, buttons);
