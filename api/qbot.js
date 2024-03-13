@@ -5,7 +5,7 @@ require('dotenv').config();
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
 // Load questions from JSON file
-const questions = require('./questions.json');
+const questions = require('../questions.json');
 let currentQuestionIndex = 0;
 let correctAnswerCount = 0;
 
